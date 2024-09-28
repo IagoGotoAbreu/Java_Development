@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8b06908-053d-4906-98bf-4177a5b707a3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/.idea/Aula07.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/Luta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/Lutador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/out/production/Aula07/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/out/production/Aula07/.idea/Aula07.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/out/production/Aula07/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/out/production/Aula07/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/out/production/Aula07/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/out/production/Aula07/Luta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/out/production/Aula07/Lutador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula07/out/production/Aula07/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/iagog/Desktop/Java_Development/Guanabara/Aula07"
+    "last_opened_file_path": "C:/Users/iagog/Desktop/Java_Development/Guanabara/UltraEmojiCombat"
   }
 }]]></component>
   <component name="RunManager">

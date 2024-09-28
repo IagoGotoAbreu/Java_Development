@@ -10,7 +10,6 @@ public class Lutador {
     private Integer empates;
 
     public void apresentar(){
-        System.out.println("--------------------------------------------------");
         System.out.println("Lutador: " + this.getNome());
         System.out.println("Origem: " + this.getNacionalidade());
         System.out.println("Idade: " + this.getIdade());

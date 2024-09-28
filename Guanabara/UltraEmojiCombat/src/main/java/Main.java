@@ -1,7 +1,3 @@
-import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.List;
-
 public class Main {
     public static void main(String[] args) {
 
@@ -13,6 +9,18 @@ public class Main {
         listaLutadores[4] = new Lutador("UF0Cobol", "Brasil", 37, 1.70, 119.3, 5, 4, 3);
         listaLutadores[5] = new Lutador("Nerdaart", "EUA", 30, 1.81, 105.7, 12, 2, 4);
 
-        listaLutadores[3].status();
+        Luta[] UEC01 = new Luta[3];
+        UEC01[0] = new Luta();
+        UEC01[1] = new Luta();
+        UEC01[2] = new Luta();
+
+        UEC01[0].marcarLuta(listaLutadores[0], listaLutadores[1]);
+        UEC01[0].lutar();
+
+        UEC01[1].marcarLuta(listaLutadores[2], listaLutadores[3]);
+        UEC01[1].lutar();
+
+        UEC01[2].marcarLuta(listaLutadores[4], listaLutadores[5]);
+        UEC01[2].lutar();
     }
 }
